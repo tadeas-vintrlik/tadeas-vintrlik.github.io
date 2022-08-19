@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vintrlik Blog</title>
+    <link>https://tadeas-vintrlik.github.io/posts/</link>
+    <description>Recent content in Posts on Vintrlik Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Aug 2022 21:16:57 +0200</lastBuildDate><atom:link href="https://tadeas-vintrlik.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Github Pages</title>
+      <link>https://tadeas-vintrlik.github.io/posts/hello-github-pages/</link>
+      <pubDate>Fri, 19 Aug 2022 21:16:57 +0200</pubDate>
+      
+      <guid>https://tadeas-vintrlik.github.io/posts/hello-github-pages/</guid>
+      <description>I have kept a blog in the past. It was rather quirky. Half of the time it was available as html half as Gemini on vintrlik.org, which is no longer running.
+I basically hacked together my own static site generator. With a few lines of shell script and awk. It was not the pretiest thing ever but it did the job.
+I have since gone through quite a bit. Recently I stumbled upon my old archived blog posts.</description>
+    </item>
+    
+  </channel>
+</rss>
