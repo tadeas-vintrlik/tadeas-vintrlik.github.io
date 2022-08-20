@@ -4,6 +4,7 @@ title: Vintrlik Blog
 theme: paperMod
 publishdir: ../
 params:
+    mainSections: [blog]
     profileMode:
         enabled: true
         title: "Vintrlik"

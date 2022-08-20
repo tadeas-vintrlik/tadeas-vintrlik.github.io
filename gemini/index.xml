@@ -1,32 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Vintrlik Blog</title>
-    <link>https://tadeas-vintrlik.github.io/</link>
-    <description>Recent content on Vintrlik Blog</description>
+    <title>Geminis on Vintrlik Blog</title>
+    <link>https://tadeas-vintrlik.github.io/gemini/</link>
+    <description>Recent content in Geminis on Vintrlik Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Aug 2022 16:38:24 +0200</lastBuildDate><atom:link href="https://tadeas-vintrlik.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Old Gemini Posts</title>
-      <link>https://tadeas-vintrlik.github.io/blog/old-gemini-posts/</link>
-      <pubDate>Sat, 20 Aug 2022 16:38:24 +0200</pubDate>
-      
-      <guid>https://tadeas-vintrlik.github.io/blog/old-gemini-posts/</guid>
-      <description>As mentioned in the previous article I used to run a blog back in the day. I used to write about rather random technical topics that would pop up. It was very opinionated. Mostly since I was quite influenced by Luke Smith who was my first serious introduction to the rabbit hole of Linux. I also quite liked HexDSL who introduced me to gemini and that&amp;rsquo;s how the bi-hosted site was born.</description>
-    </item>
-    
-    <item>
-      <title>Hello Github Pages</title>
-      <link>https://tadeas-vintrlik.github.io/blog/hello-github-pages/</link>
-      <pubDate>Fri, 19 Aug 2022 21:16:57 +0200</pubDate>
-      
-      <guid>https://tadeas-vintrlik.github.io/blog/hello-github-pages/</guid>
-      <description>I have kept a blog in the past. It was rather quirky. Half of the time it was available as html half as Gemini on vintrlik.org, which is no longer running.
-I basically hacked together my own static site generator. With a few lines of shell script and awk. It was not the pretiest thing ever but it did the job.
-I have since gone through quite a bit. Recently I stumbled upon my old archived blog posts.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 04 Sep 2021 14:19:08 +0200</lastBuildDate><atom:link href="https://tadeas-vintrlik.github.io/gemini/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Beauty and Beastie</title>
       <link>https://tadeas-vintrlik.github.io/gemini/the-beauty-and-beastie/</link>
@@ -77,7 +57,6 @@ To make the terminology clear in the beginning from now if I use the term Emacs 
       <description>Today I had a bit of free time on my hands and I decided to revisit this crappy site of mine. After a few busy weeks in school where nothing happened on this site in the semi-broken state I left it was asking for a change.
 The reason for changing the site, however goes much deeper as I yet again jumped the boat from Emacs to Vim. The reason for that will require a post of its own.</description>
     </item>
-    
     
   </channel>
 </rss>
