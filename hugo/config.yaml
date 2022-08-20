@@ -1,0 +1,19 @@
+baseURL: 'https://tadeas-vintrlik.github.io'
+languageCode: en-us
+title: Vintrlik Blog
+theme: paperMod
+publishdir: ../
+params:
+    profileMode:
+        enabled: true
+        title: "Vintrlik"
+        subtitle: "Blogging about computer stuff since 2020"
+        buttons:
+            - name: Blog
+              url: "/blog"
+            - name: Archive
+              url: "/archives"
+
+    socialIcons:
+        - name: Github
+          url: "https://github.com/tadeas-vintrlik"

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Vintrlik Blog</title>
-    <link>https://tadeas-vintrlik.github.io/</link>
-    <description>Recent content on Vintrlik Blog</description>
+    <title>Blogs on Vintrlik Blog</title>
+    <link>https://tadeas-vintrlik.github.io/blog/</link>
+    <description>Recent content in Blogs on Vintrlik Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Aug 2022 21:16:57 +0200</lastBuildDate><atom:link href="https://tadeas-vintrlik.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Aug 2022 21:16:57 +0200</lastBuildDate><atom:link href="https://tadeas-vintrlik.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Github Pages</title>
       <link>https://tadeas-vintrlik.github.io/blog/hello-github-pages/</link>
@@ -68,7 +68,6 @@ To make the terminology clear in the beginning from now if I use the term Emacs 
       <description>Today I had a bit of free time on my hands and I decided to revisit this crappy site of mine. After a few busy weeks in school where nothing happened on this site in the semi-broken state I left it was asking for a change.
 The reason for changing the site, however goes much deeper as I yet again jumped the boat from Emacs to Vim. The reason for that will require a post of its own.</description>
     </item>
-    
     
   </channel>
 </rss>
