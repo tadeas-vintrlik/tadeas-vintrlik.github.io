@@ -4,6 +4,7 @@ title: Vintrlik Blog
 theme: paperMod
 publishdir: ../
 params:
+    ShowReadingTime: true
     mainSections: [blog]
     profileMode:
         enabled: true

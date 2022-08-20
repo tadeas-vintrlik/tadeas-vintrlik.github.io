@@ -1,7 +1,7 @@
 ---
 title: "Editor Clash of the Century"
 date: 2020-12-08T14:10:32+02:00
-searchHidden: true
+ShowToc: true
 ---
 If you spend any amount of time in the computer science or as I prefer to call
 it Hacker community (in the original meaning of the word) you likely have heard

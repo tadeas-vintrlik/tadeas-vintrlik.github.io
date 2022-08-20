@@ -1,6 +1,7 @@
 ---
 title: "The Beauty and Beastie"
 date: 2021-09-04T14:19:08+02:00
+ShowToc: true
 ---
 As I mentioned in my last article I have a FreeBSD box running FTP as a file
 server. I use for my personal media, source codes, scripts and share it like

@@ -1,6 +1,7 @@
 ---
 title: "The State of the Modern Web and Gemini"
 date: 2021-02-14T14:13:27+02:00
+ShowToc: true
 ---
 As you might have notice from just about anything on my website.  I like to
 keeps things simple, maybe too simple. But it has a set of advantages. As

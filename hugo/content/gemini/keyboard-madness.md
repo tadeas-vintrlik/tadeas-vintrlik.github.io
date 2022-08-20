@@ -1,6 +1,7 @@
 ---
 title: "Keyboard Madness"
 date: 2021-07-07T14:16:51+02:00
+ShowToc: true
 ---
 A year ago I got my first mechanical keyboard. It was a cheap one with no
 worthy brand name to back it up. At first I was amazed since this was the first

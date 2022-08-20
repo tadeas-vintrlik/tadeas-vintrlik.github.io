@@ -1,7 +1,7 @@
 ---
 title: "New Site New Age"
 date: 2020-11-22T13:57:42+02:00
-searchHidden: true
+ShowToc: true
 ---
 Today I had a bit of free time on my hands and I decided to revisit this crappy
 site of mine. After a few busy weeks in school where nothing happened on this
