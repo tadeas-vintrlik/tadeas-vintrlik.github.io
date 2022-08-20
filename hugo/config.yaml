@@ -4,6 +4,9 @@ title: Vintrlik Blog
 theme: paperMod
 publishdir: ../
 params:
+    ShowPostNavLinks: true
+    ShowCodeCopyButtons: true
+    ShowBreadCrumbs: true
     ShowReadingTime: true
     mainSections: [blog]
     profileMode:
