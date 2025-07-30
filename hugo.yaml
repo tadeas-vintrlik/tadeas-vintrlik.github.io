@@ -1,0 +1,12 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: My Blog
+theme: ['PaperMod']
+params:
+  homeInfoParams:
+    Title: Tadeáš Vintrlík
+    Content: Welcome to my blog
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/tadeas-vintrlik"
